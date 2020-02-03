@@ -35,4 +35,10 @@ would need to be to capture a certain percentage of the total distribution.
                             3) Measure the samples
                             4) Make conclusion (i.e the samples makes sense or not as per his /her assumptions)
                             
+    4 Step method to perform test of a hypothesis:
+                            1) Set up H0 and H1 (Null Hypothesis & Alternate Hypothesis)
+                                H0 is p < 0.50 and H1 is p > 0.50
                             
+                            2) State Significance Level
+                            3) Identify Test Static : Binomial Probability => p = 0.50
+                             
