@@ -4,3 +4,6 @@ Formulae:
     % Rank = [(#of values below X) + 0.5 / Total # of values] * 100
     Eg: % Rank = [2 + 0.5 / 10]*100  = 25th Percentile
  
+Example 2:
+    Say a candidate secured highest marks (85) and say, there are 9 students below him . (Consider a class of 10 students)
+    Calculating % Rank = [9 + 0.5 / 10] *100 = 95th Percentile
