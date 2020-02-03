@@ -8,6 +8,7 @@ Example 2:
     Say a candidate secured highest marks (85) and say, there are 9 students below him . (Consider a class of 10 students)
     Calculating % Rank = [9 + 0.5 / 10] *100 = 95th Percentile
 
+LARGER SAMPLE SIZE = SMALLER STANDARD DEVIATION
 2) Central Limit Theorem (Fuzzy central limit theorem):
         "Data influenced by many small and unrelated random effects are normally distributed"
         "When the number of trials and observations get very large , the data takes the shape of famous bell-curve
