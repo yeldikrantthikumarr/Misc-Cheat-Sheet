@@ -1,0 +1,6 @@
+These are my collection of stats formulaes, were used in my assignments:
+Calculating Percentile Rank:
+Formulae: 
+    % Rank = [(#of values below X) + 0.5 / Total # of values] * 100
+    Eg: % Rank = [2 + 0.5 / 10]*100  = 25th Percentile
+ 
