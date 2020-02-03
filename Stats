@@ -12,6 +12,7 @@ Example 2:
         "Data influenced by many small and unrelated random effects are normally distributed"
         "When the number of trials and observations get very large , the data takes the shape of famous bell-curve
         "The more samples we take, the closer the means of our sample means will get to the population mean".
+        " Enough random samples =  Exellent approximation of population means"
     Examples: Heat statistics in degrees, Stock market price movements    
     
 3) Sampling, Confidence Intervals and Hypothesis Testing
