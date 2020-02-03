@@ -28,3 +28,11 @@ would need to be to capture a certain percentage of the total distribution.
         Upper limit = 0.55 + 1.96 (standard deviation)
         Lower limit = 0.55 - 1.96 (standard deviation)
     
+6) Hypothesis Testing: Hypothesis Testing is extremely popular method for exploring outcomes.
+    Let us understand how statisticians usually do, 
+                            1) They make an assumption
+                            2) Collect random samples
+                            3) Measure the samples
+                            4) Make conclusion (i.e the samples makes sense or not as per his /her assumptions)
+                            
+                            
