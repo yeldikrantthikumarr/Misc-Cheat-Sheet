@@ -17,6 +17,7 @@ LARGER SAMPLE SIZE = SMALLER STANDARD DEVIATION
         "When the number of trials and observations get very large , the data takes the shape of famous bell-curve
         "The more samples we take, the closer the means of our sample means will get to the population mean".
         " Enough random samples =  Exellent approximation of population means"
+        " Give enoug number of iterations, the mean of the sample is normally distributed"
     Examples: Heat statistics in degrees, Stock market price movements    
     
 3) Sampling, Confidence Intervals and Hypothesis Testing
