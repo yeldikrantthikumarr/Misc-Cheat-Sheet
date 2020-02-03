@@ -24,3 +24,7 @@ Confidence Interval Provides a level of confidence for a given interval
 5) Creating CI (Confidence Interval): 
 Step 1: Look at (observe) Z-Scores. (Z-score --> it tells us how many standard deviations away from the mean we
 would need to be to capture a certain percentage of the total distribution.
+ Step 2: If sample population is = 0.55
+        Upper limit = 0.55 + 1.96 (standard deviation)
+        Lower limit = 0.55 - 1.96 (standard deviation)
+    
